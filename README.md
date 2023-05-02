@@ -16,7 +16,7 @@ A list of  WordPress Core and Plugins domains that need to be configured if you 
 
 ### MAILCHIMP
 - server.api.mailchimp.com
-- <datacenter>.api.mailchimp.com
+- [datacenter].api.mailchimp.com
 
 
 ## WP-ROCKET

@@ -3,6 +3,9 @@ A list of  WordPress Core and Plugins domains that need to be configured if you 
 
 
 ## CORE
+- api.wordpress.org
+- download.wordpress.org
+
 
 ## PLUGINS
 ### WPML

@@ -12,20 +12,20 @@ A list of  WordPress Core and Plugins domains that need to be configured if you 
 
 ## PLUGINS
 
-### EASY SMTP
+#### EASY SMTP
 - connect.easysmpt.com
 
-### MAILCHIMP
+#### MAILCHIMP
 - server.api.mailchimp.com
 - datacenter.api.mailchimp.com
 
 
-## WP-ROCKET
+#### WP-ROCKET
 - wp-rocket.me
 - sass.wp-rocket.me
 - cpcss.wp-rocket.me
 
-### WPML
+#### WPML
 - wpml.org
 - ate.wpml.org
 - api.wpml.org

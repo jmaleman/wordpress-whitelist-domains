@@ -7,6 +7,7 @@ A list of  WordPress Core and Plugins domains that need to be configured if you 
 - api.wordpress.org
 - developer.wordpress.org
 - download.wordpress.org
+- downloads.wordpress.org
 - secure.gravatar.com
 
 ## PLUGINS
